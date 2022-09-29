@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxv0gbtUHrKPPi45gTtmfnymPbDPLwNSSAmaIKG+hFni4afRKEPcKZF/hwRXuTpNyVgJjTD/9QxtXjG3Nw6BvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodolfo\\source\\repos\\MediatR_and_Bogus\\AspNet_MediatR1\\AspNet_MediatR1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Rodolfo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
